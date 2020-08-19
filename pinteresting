@@ -1,0 +1,5 @@
+git config --global user.name "James Arwa"
+git config --global user.email "jarwa2@comcast.net"
+git config --global push.default matching
+git config --global alias.co checkout
+git init
